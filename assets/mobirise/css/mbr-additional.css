@@ -2019,7 +2019,10 @@ section.lazy-placeholder:after {
 }
 .cid-s58UAXSDeS .mbr-text,
 .cid-s58UAXSDeS .mbr-section-btn {
-  text-align: left;
+  text-align: center;
+}
+.cid-s58UAXSDeS H1 {
+  text-align: center;
 }
 .cid-s58UU068Lp {
   padding-top: 90px;
