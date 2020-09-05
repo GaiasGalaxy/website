@@ -710,26 +710,129 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-s4FWVT0Cq8 {
-  background-image: url("../../../assets/images/galaxy-photo-for-shop-merch.jpeg");
+.cid-s9JSxxywCW {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #d0bbff;
 }
-.cid-s4FWVT0Cq8 .mbr-section-subtitle {
-  letter-spacing: .2rem;
+.cid-s9JSxxywCW .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
 }
-.cid-s4FWVT0Cq8 .media-container-column {
-  background-color: #4f4943;
+.cid-s9JSxxywCW .number-wrap {
+  color: #ffffff;
+  border-color: rgba(255, 255, 255, 0.15);
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  padding: 5px 10px 13px 10px;
+  margin: 0;
+  min-width: 118px;
+  border-radius: 2px;
+  max-width: 100%;
 }
-@media (max-width: 767px) {
-  .cid-s4FWVT0Cq8 .media-container-column {
-    padding: 1rem !important;
+.cid-s9JSxxywCW .number {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  text-transform: none;
+  letter-spacing: -2px;
+  word-spacing: 0;
+  line-height: 1.3;
+  color: #ffffff;
+}
+.cid-s9JSxxywCW .period {
+  display: block;
+  padding-top: 2px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.cid-s9JSxxywCW .dot {
+  position: absolute;
+  top: -10px;
+  right: -1em;
+  width: 1em;
+  display: block;
+  height: 83%;
+  overflow: hidden;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 89.65px;
+  text-transform: none;
+  letter-spacing: 0;
+  word-spacing: 0;
+  color: #ffffff;
+}
+.cid-s9JSxxywCW .countdown-cont {
+  max-width: 700px;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-s9JSxxywCW .dot {
+    display: none;
   }
 }
-.cid-s4FWVT0Cq8 H1 {
-  text-align: center;
+@media (max-width: 543px) {
+  .cid-s9JSxxywCW .number-wrap {
+    margin-bottom: 15px;
+  }
 }
-.cid-s4FWVT0Cq8 .mbr-text,
-.cid-s4FWVT0Cq8 .mbr-section-btn {
+@media (max-width: 550px) {
+  .cid-s9JSxxywCW .col-xs-3 {
+    padding-left: 0;
+    padding-right: 0;
+    max-width: 25%;
+    flex: 0 0 25%;
+  }
+  .cid-s9JSxxywCW .number-wrap {
+    min-width: auto;
+  }
+}
+@media (max-width: 440px) {
+  .cid-s9JSxxywCW .number,
+  .cid-s9JSxxywCW .dot {
+    font-size: 40px;
+  }
+}
+@media (max-width: 380px) {
+  .cid-s9JSxxywCW .period {
+    font-size: 0.8rem;
+  }
+}
+.cid-s9JN9x7uWc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/galaxy-image-for-website-500x365.jpg");
+}
+.cid-s9JN9x7uWc .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-s9JN9x7uWc .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s9JN9x7uWc .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s9JN9x7uWc .mbr-text {
+    text-align: center;
+  }
+}
+.cid-s9JN9x7uWc .mbr-text,
+.cid-s9JN9x7uWc .mbr-section-btn {
   text-align: center;
+  color: #ffffff;
+}
+.cid-s9JN9x7uWc H1 {
+  text-align: center;
+  color: #ffffff;
 }
 .cid-s4GdQg4VQU .navbar {
   background: #ffffff;
